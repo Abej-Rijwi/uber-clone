@@ -111,8 +111,8 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/Abej-Rijwi/uberClone.git
-cd uberClone
+git clone https://github.com/Abej-Rijwi/uber-clone.git
+cd uber-clone
 ```
 
 **Installation**
